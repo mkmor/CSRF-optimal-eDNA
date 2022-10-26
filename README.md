@@ -1,7 +1,6 @@
 # CSRF Optimal eDNA Detection Period 
-R Scripts
+R Scripts (Created 26 Oct 2022, M. Morrison)
 
-Created 26 Oct 2022 (M. Morrison)
-Modified 26 Oct 2022 (M. Morrison)
 
-## Purpose: This repository is intended to store and obtain feedback on scripts used to clean and/or consolidate eDNA data from metabarcoding and qPCR projects. 
+
+This repository is intended to store and obtain feedback on scripts used to clean and/or consolidate eDNA data from metabarcoding and qPCR projects. 
