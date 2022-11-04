@@ -8,5 +8,5 @@ This repository is intended to store and obtain feedback on scripts used to clea
 ## Stack metabarcoding data and find species info
 This script (1) transforms raw metabarcoding .csv files so data can be inputted to the database, and (2) obtains taxonomic information for species from the WoRMS database.
 
-## Consolidate qPCR metadata and samples
-This script pulls completed .xlsx files in the same directory and cleans metadata so multiple projects can be analysed.  
+## qPCR Figures
+This script pulls completed .xlsx files in the same directory and cleans metadata so multiple projects can be analysed. After data have been compiled into lists, figures presenting optimal detection periods for species are created (e.g., heatmap of relative success per month and ecoregion).
